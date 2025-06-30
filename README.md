@@ -1,0 +1,2 @@
+# GUARDING-AGAINST-JOB-SCAMS-HARNESSING-DECISION-TREE-ANALYSIS
+Online job scams are increasing. We developed a data mining system to detect fake job postings using text mining and NLP to extract features. We then applied machine learning (decision trees, Naïve Bayes, neural networks) to classify them. Key indicators include specific words and unusual job titles. Our model helps job portals protect job seekers.
